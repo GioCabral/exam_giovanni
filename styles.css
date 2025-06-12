@@ -65,6 +65,7 @@ form button {
   padding: 10px;
   border: none;
   cursor: pointer;
+  margin: 10px;
 }
 
 form button:hover {
